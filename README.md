@@ -45,10 +45,8 @@ You can also open the notebooks directly in Google Colab:
 **Bárbara Ángeles Ortiz**  
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
-
-# Challenge Alura Store
-
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
+
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 
 
