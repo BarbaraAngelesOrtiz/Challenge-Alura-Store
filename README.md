@@ -4,7 +4,7 @@ In this challenge, I’ll assist Mr. Juan in deciding which store from his Alura
 
 ## ✅ Requirements
 
-### 0. Libraries
+### 0. Used Libraries
 
     pandas 
     matplotlib.pyplot
