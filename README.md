@@ -48,9 +48,7 @@ You can also open the notebooks directly in Google Colab:
 
 ### 💡 Extras opcionales para que se vea más profesional
 
-**Badges**: Muestra que el proyecto está en progreso, los lenguajes usados, etc. Ejemplo:
-  ```markdown
+![Status] (https://img.shields.io/badge/status-finished-brightgreen)
 
-![Status](https://img.shields.io/badge/status-finished-brightgreen)
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![Python] (https://img.shields.io/badge/python-3.10-blue)
 
