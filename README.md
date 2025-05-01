@@ -4,10 +4,17 @@ In this challenge, I’ll assist Mr. Juan in deciding which store from his Alura
 
 ## ✅ Requirements
 
+### 0. Libraries
+
+    pandas 
+    matplotlib.pyplot
+    seaborn
+    folium
+
 ### 1. Analyze Store Data
 The evaluation of multiple aspects of store performance, including:
 - Total revenue
-- Top-selling product categories
+- Best-selling and least-selling product categories.
 - Customer ratings and reviews
 - Best-selling and least-selling products
 - Average delivery performance
