@@ -46,9 +46,10 @@ You can also open the notebooks directly in Google Colab:
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
 
-### 💡 Extras opcionales para que se vea más profesional
+# Challenge Alura Store
 
-![Status] (https://img.shields.io/badge/status-finished-brightgreen)
+![Status](https://img.shields.io/badge/status-finished-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
 
-![Python] (https://img.shields.io/badge/python-3.10-blue)
+
 
