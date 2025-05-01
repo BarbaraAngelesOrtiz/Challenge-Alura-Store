@@ -37,10 +37,6 @@ Based on the analysis, write a clear and concise recommendation explaining:
 - [Notebook in Spanish](./AluraStoreLatam_es.ipynb)
 - [Notebook in English](./AluraStoreLatam_en.ipynb)
 
-You can also open the notebooks directly in Google Colab:
-- [Open in Colab (Spanish)](https://colab.research.google.com/github/BarbaraAngelesOrtiz/Challenge-Alura-Store/blob/main/challenge_alura_store_es.ipynb)
-- [Open in Colab (English)](https://colab.research.google.com/github/BarbaraAngelesOrtiz/Challenge-Alura-Store/blob/main/challenge_alura_store_en.ipynb)
-
 ## Author
 **Bárbara Ángeles Ortiz**  
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
