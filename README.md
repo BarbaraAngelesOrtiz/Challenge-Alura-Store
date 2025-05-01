@@ -1,6 +1,6 @@
 # 📊 Alura Store Sales Analysis
 
-In this challenge, I’ll assist Mr. Juan in deciding which store from his Alura Store chain he should sell in order to launch a new business venture. To make this decision, I’ll analyze sales data, performance metrics, and customer reviews from the four Alura Store branches. The goal is to identify the least efficient store and provide a final, data-driven recommendation.
+Project carried out as part of the Alura Latam Challenge - Data Science. In this challenge, I’ll assist Mr. Juan in deciding which store from his Alura Store chain he should sell in order to launch a new business venture. To make this decision, I’ll analyze sales data, performance metrics, and customer reviews from the four Alura Store branches. The goal is to identify the least efficient store and provide a final, data-driven recommendation.
 
 ## ✅ Requirements
 
@@ -29,3 +29,14 @@ Use data visualizations to present your findings in a clear and engaging way:
 Based on the analysis, write a clear and concise recommendation explaining:
 - Which store Mr. Juan should sell
 - The reasons behind your decision, supported by the data
+
+#### 📂 Project Access
+
+- [Notebook in Spanish](./AluraStoreLatam_es.ipynb)
+- [Notebook in English](./AluraStoreLatam_en.ipynb)
+
+You can also open the notebooks directly in Google Colab:
+- [Open in Colab (Spanish)](https://colab.research.google.com/github/BarbaraAngelesOrtiz/Challenge-Alura-Store/blob/main/challenge_alura_store_es.ipynb)
+- [Open in Colab (English)](https://colab.research.google.com/github/BarbaraAngelesOrtiz/Challenge-Alura-Store/blob/main/challenge_alura_store_en.ipynb)
+
+## 📌 Description
