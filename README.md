@@ -38,7 +38,8 @@ Based on the analysis, write a clear and concise recommendation explaining:
 - [Notebook in English](./AluraStoreLatam_en.ipynb)
 
 ## Author
-**Bárbara Ángeles Ortiz**  ![IMG_20220416_132335_MP (3)](https://github.com/user-attachments/assets/bc736082-d2f3-4d2d-809f-e61ec797a695)
+**Bárbara Ángeles Ortiz**  ![IMG_20220416_132335_MP (3)](https://github.com/user-attachments/assets/8f912e92-bf2c-44da-aa28-044d6642c054)width=115
+
 
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
