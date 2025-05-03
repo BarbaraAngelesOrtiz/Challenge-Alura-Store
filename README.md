@@ -39,11 +39,9 @@ Based on the analysis, write a clear and concise recommendation explaining:
 
 ## Author
 
-
-<p align="center">
   <img src="![IMG_20220416_132335_MP (3)](https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb)" width="115"><br>
   <sub>Bárbara Ángeles Ortiz</sub>
-</p>
+
 
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
