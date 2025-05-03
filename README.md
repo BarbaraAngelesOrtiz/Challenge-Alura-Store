@@ -40,9 +40,7 @@ Based on the analysis, write a clear and concise recommendation explaining:
 ## Author
 **Bárbara Ángeles Ortiz**
 
-  ![IMG_20220416_132335_MP (3)](https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb)width="115"
-  
-
+<img src="https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb" width="115">
 
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
