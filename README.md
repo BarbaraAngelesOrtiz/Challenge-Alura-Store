@@ -42,6 +42,11 @@ Based on the analysis, write a clear and concise recommendation explaining:
 
  <img src="https://avatars.githubusercontent.com/u/105976212?v=4" width=115><br><sub></sub>
 
+  <img src="(https://github.com/user-attachments/assets/a752fd7c-7f25-4007-b4b8-d96d36551e09)" width=115><br><sub></sub
+
+            ![IMG_20220416_132335_MP (3)](https://github.com/user-attachments/assets/a752fd7c-7f25-4007-b4b8-d96d36551e09)
+                                                                              
+
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
