@@ -36,8 +36,8 @@ folium
 ## 📁 Estructura del proyecto
 
 ``` tap
-├── AluraStoreLatam_en.ipynb
-├── AluraStoreLatam_es.ipynb
+├── AluraStoreLatam_en.ipynb #Código en inglés 
+├── AluraStoreLatam_es.ipynb #Código en español   
 ├── Graphics  #Gráficos
 
 ```
