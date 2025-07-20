@@ -32,6 +32,15 @@ Based on the analysis, write a clear and concise recommendation explaining:
     seaborn
     folium
 
+## 📁 Project Structure
+
+``` tap
+├── AluraStoreLatam_en.ipynb
+├── AluraStoreLatam_es.ipynb
+├── Graphics  #Graphics
+
+```
+
 ## 📂 Project Access
 
 - [Notebook in Spanish](./AluraStoreLatam_es.ipynb)
@@ -44,7 +53,7 @@ Based on the analysis, write a clear and concise recommendation explaining:
 
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
-![Status](https://img.shields.io/badge/status-finished-brightgreen)
+![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 May 2025
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 
