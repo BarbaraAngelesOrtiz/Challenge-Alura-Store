@@ -35,8 +35,8 @@ Based on the analysis, write a clear and concise recommendation explaining:
 ## 📁 Project Structure
 
 ``` tap
-├── AluraStoreLatam_en.ipynb
-├── AluraStoreLatam_es.ipynb
+├── AluraStoreLatam_en.ipynb  #Code in English
+├── AluraStoreLatam_es.ipynb  #Code in Spanish
 ├── Graphics  #Graphics
 
 ```
